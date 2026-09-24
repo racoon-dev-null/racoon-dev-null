@@ -1,17 +1,17 @@
-# Hi! I'm Racoon !
+# Hi! I'm Racoon 🛡️
 
 Welcome to my GitHub profile! I am a student from Italy passionate about cyber security. I am currently building my foundational theoretical and practical skills to explore the world of ethical hacking and digital defense.
 
 ---
 
-## About Me
+## 🚀 About Me
 
 - 🎯 **Objective**: To become a professional in the Cyber Security field.
 - 📖 **Current Studies**: Networking fundamentals, web vulnerabilities, and scripting.
 - ⚙️ **Workspace**: I spend most of my time in the Linux terminal and writing code.
 
 <p align="center">
-  <img src="https://giphy.com" alt="Cyber Security GIF" width="60%"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXpsN3N1dXY5czBrZmg2d3hoYWd5NnBueXR5ZHFlbjFrbGI4djFsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/makxZsrRQUdaluBV2X/giphy.gif" alt="Cyber Security GIF" width="60%"/>
 </p>
 
 ---
